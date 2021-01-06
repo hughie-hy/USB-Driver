@@ -2,9 +2,9 @@
 
 该虚拟机只支持fat格式，没有安装exFAT以及NTFS格式驱动
 
-![image-20210107000813016](D:\Program Files\Typora\image\image-20210107000813016.png)
-
 ![exfat.png](https://github.com/hughie-hy/USB-Driver/blob/main/image/exfat.png)
+
+![image-20210107000813016](https://github.com/hughie-hy/USB-Driver/blob/main/image/ntfs.png)
 
 64GG和64GG以上的Ｕ盘，在系统格式化里面没有Fat32格式的选择。可以通过其它软件或者批处理命令格式化成FAT32格式；这是由于FAT32格式不支持单个文件4GB以上容量，只有NTFS才支持；
 
