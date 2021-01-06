@@ -10,11 +10,11 @@
 
 64G以下U盘：
 
-<img src="D:\Program Files\Typora\image\image-20210106234501831.png" alt="image-20210106234501831.png" style="zoom:80%;" />
+<img src="https://github.com/hughie-hy/USB-Driver/blob/main/image/haoyu.png" alt="haoyu.png" style="zoom:80%;" />
 
 大于等于64G U盘
 
-<img src="D:\Program Files\Typora\image\image-20210106234610074.png" alt="image-20210106234610074" style="zoom:80%;" />
+<img src="https://github.com/hughie-hy/USB-Driver/blob/main/image/pb.png" alt="pb.png" style="zoom:80%;" />
 
 
 
