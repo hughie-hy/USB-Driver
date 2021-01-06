@@ -26,3 +26,5 @@
 
 u盘容量大于等于16G会出现段错误
 
+参考资料
+https://blog.csdn.net/gatieme/article/details/75108154
